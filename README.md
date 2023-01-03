@@ -1,2 +1,1 @@
-# Activity-NC4
-educational purposes only
+# pure-edge/MERN-exercises
